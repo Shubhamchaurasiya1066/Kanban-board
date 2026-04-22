@@ -52,8 +52,8 @@ src/
 ---
 
 ## 📸 Preview
-
-(Add your project screenshot here)
+Live Link:-
+([https://kanban-board-ashy-chi.vercel.app/])
 
 ---
 
